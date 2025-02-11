@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yarin Zaroog</h1>
 <h3 align="center">A Computer Science student. I’m looking for my first student position!</h3>
 
-- 📫 How to reach me **yarin1552000@gmail.com**
+- 📫 How to reach me **YarinZaroog@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
